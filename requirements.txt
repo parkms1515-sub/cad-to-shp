@@ -1,0 +1,8 @@
+streamlit
+folium
+streamlit-folium
+ezdxf
+pyshp
+matplotlib
+shapely
+geopandas
